@@ -29,30 +29,30 @@
     {
       "id": 1,
       "description": "slider1",
-      "image": "#",
+      "image": "https://ciyashop.potenzaglobalsolutions.com/home-slider/wp-content/uploads/sites/18/2018/05/shop.jpg",
       "link": "#",
-      "button": "click me"
+      "button": "click here"
     },
     {
       "id": 2,
       "description": "slider2",
-      "image": "#",
+      "image": "https://www.standout.co.uk/blog/wp-content/uploads/2021/07/shutterstock_1458308510.jpg",
       "link": "#",
-      "button": "click me"
+      "button": ""
     },
     {
       "id": 3,
       "description": "slider3",
-      "image": "#",
+      "image": "https://www.stylior.com/site/images/home/slider_1.jpg",
       "link": "#",
-      "button": "click me"
+      "button": ""
     },
     {
       "id": 4,
       "description": "slider4",
-      "image": "#",
+      "image": "https://inklik.com/wp-content/uploads/2023/07/Jewellery-Product-Description.png",
       "link": "#",
-      "button": "click me"
+      "button": "click here"
     }
   ],
   "products": [
