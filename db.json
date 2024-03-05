@@ -347,17 +347,142 @@
   "footer": [
     {
       "id": 1,
-      "heading": "",
+      "heading": "Account",
       "items": [
         {
           "id": 1,
-          "link": "",
-          "content": ""
+          "link": "#",
+          "content": "Account details"
+        },
+        {
+          "id": 2,
+          "link": "#",
+          "content": "orders"
+        },
+        {
+          "id": 3,
+          "link": "#",
+          "content": "returns & exchanges"
+        },
+        {
+          "id": 4,
+          "link": "#",
+          "content": "wishlist"
+        },
+        {
+          "id": 5,
+          "link": "#",
+          "content": "notification settings"
+        },
+        {
+          "id": 6,
+          "link": "#",
+          "content": "buy gift vouchers"
         }
       ]
     },
-    { "id": 2, "heading": "", "items": [{}] },
-    { "id": 3, "heading": "", "items": [{}] },
-    { "id": 4, "heading": "", "items": [{}] }
+    {
+      "id": 2,
+      "heading": "client concierge",
+      "items": [
+        {
+          "id": 1,
+          "link": "#",
+          "content": "help centre"
+        },
+        {
+          "id": 2,
+          "link": "#",
+          "content": "FAQ"
+        },
+        {
+          "id": 3,
+          "link": "#",
+          "content": "payment options"
+        },
+        {
+          "id": 4,
+          "link": "#",
+          "content": "delivery options"
+        },
+        {
+          "id": 5,
+          "link": "#",
+          "content": "click & collect"
+        },
+        {
+          "id": 6,
+          "link": "#",
+          "content": "returns policy"
+        },
+        {
+          "id": 7,
+          "link": "#",
+          "content": "privacy policy"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "heading": "the company",
+      "items": [
+        {
+          "id": 1,
+          "link": "#",
+          "content": "about us"
+        },
+        {
+          "id": 2,
+          "link": "#",
+          "content": "careers at superbalist"
+        },
+        {
+          "id": 3,
+          "link": "#",
+          "content": "tech careers"
+        },
+        {
+          "id": 4,
+          "link": "#",
+          "content": "marketing services"
+        },
+        {
+          "id": 5,
+          "link": "#",
+          "content": "corporate gift vouchers"
+        },
+        {
+          "id": 6,
+          "link": "#",
+          "content": "conscious journey"
+        },
+        {
+          "id": 7,
+          "link": "#",
+          "content": "contact"
+        },
+        {
+          "id": 8,
+          "link": "#",
+          "content": "Takealot Group Human Rights"
+        },
+        {
+          "id": 9,
+          "link": "#",
+          "content": "Statement"
+        },
+        {
+          "id": 10,
+          "link": "#",
+          "content": "Speak Up Process"
+        }
+      ]
+    }
+  ],
+  "social_medias": [
+    { "id": 1, "link": "#", "logo": "" },
+    { "id": 2, "link": "#", "logo": "" },
+    { "id": 3, "link": "#", "logo": "" },
+    { "id": 4, "link": "#", "logo": "" }
   ]
 }
