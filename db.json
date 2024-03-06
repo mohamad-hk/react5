@@ -321,18 +321,6 @@
             "voters": 145
           }
         },
-        {
-          "id": 7,
-          "title": " T Shirt Casual Cotton Short",
-          "price": 12.99,
-          "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees",
-          "category": "women's clothing",
-          "image": "https://cdn.fashionbizapps.nz/honeybee/images/ZW765_Product_Navy_01_jRFD9qF.jpg",
-          "rating": {
-            "rate": 3.7,
-            "voters": 145
-          }
-        }
       ]
     }
   ],
@@ -350,15 +338,6 @@
     
     {
       "id": 2,
-      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/jean/y/4/u/34-epsjean-dgrey-urbano-fashion-original-imagqrgfakputg6g.jpeg?q=20&crop=false",
-      "date": "2023/08/29",
-      "category": "leather & life style",
-      "title": "Jeans trend models in 2024",
-      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
-      "comments": 5
-    },
-    {
-      "id": 3,
       "image": "https://vely-prod-media-bucket.s3.amazonaws.com/uploads/2021/06/21/eoss-banners-event_mobile_event-page-20210621.jpg",
       "date": "2022/06/09",
       "category": "festival",
@@ -367,7 +346,7 @@
       "comments": 14
     },
     {
-      "id": 4,
+      "id": 3,
       "image": "https://www.pcma.org/wp-content/uploads/2018/02/20180226_engagement.jpeg",
       "date": "2023/07/17",
       "category": "competiotions",
@@ -375,15 +354,6 @@
       "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
       "comments": 12
     },
-    {
-      "id": 5,
-      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/jean/y/4/u/34-epsjean-dgrey-urbano-fashion-original-imagqrgfakputg6g.jpeg?q=20&crop=false",
-      "date": "2022/11/21",
-      "category": "leather & life style",
-      "title": " the best models of women's leather belts",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-      "comments": 2
-    }
   ],
   "footer": [
     {
