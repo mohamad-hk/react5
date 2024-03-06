@@ -290,17 +290,6 @@
         },
         {
           "id": 2,
-          "title": "Leather Moto Biker Jacket",
-          "price": 29.95,
-          "category": "women's clothing",
-          "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
-          "rating": {
-            "rate": 2.9,
-            "voters": 340
-          }
-        },
-        {
-          "id": 3,
           "title": "MBJ Women's Solid Short Sleeve ",
           "price": 9.85,
           "category": "women's clothing",
@@ -311,7 +300,7 @@
           }
         },
         {
-          "id": 4,
+          "id": 3,
           "title": "Opna Women's Short Sleeve Moisture",
           "price": 7.95,
           "category": "women's clothing",
@@ -322,7 +311,7 @@
           }
         },
         {
-          "id": 5,
+          "id": 4,
           "title": "T Shirt Casual Cotton Short",
           "price": 12.99,
           "category": "women's clothing",
@@ -333,7 +322,7 @@
           }
         },   
         {
-          "id": 1,
+          "id": 5,
           "title": " Snowboard Jacket Winter Coats",
           "price": 56.99,
           "category": "women's clothing",
@@ -341,6 +330,17 @@
           "rating": {
             "rate": 2.6,
             "voters": 235
+          }
+        },
+        {
+          "id": 6,
+          "title": "Opna Women's Short Sleeve Moisture",
+          "price": 7.95,
+          "category": "women's clothing",
+          "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+          "rating": {
+            "rate": 4.5,
+            "voters": 146
           }
         }
       ]
