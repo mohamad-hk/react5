@@ -369,26 +369,60 @@
       ]
     }
   ],
-  "blogs": [
-    { "id": 1, "image": "#", "heading": "", "descriptoin": "", "button": "" },
-    { "id": 2, "image": "#", "heading": "", "descriptoin": "", "button": "" },
-    { "id": 3, "image": "#", "heading": "", "descriptoin": "", "button": "" }
-  ],
   "posts": [
     {
       "id": 1,
-      "title": "sunt aut facere",
-      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "image": "https://badichibelts.com/cdn/shop/products/Womeneastmeetsburgundy_grande.png?v=1606721040",
+      "date": "2022/11/21",
+      "category": "leather & life style",
+      "title": "Get to know the best models of women's leather belts",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "comments": 2
     },
     {
       "id": 2,
-      "title": "qui est esse",
-      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/5/NE/BF/LP/107489853/shoe-polish-repair-service-500x500.jpg",
+      "date": "2024/02/02",
+      "category": "educational",
+      "title": " method of waxing and polishing shoes",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+      "comments": 0
     },
     {
       "id": 3,
-      "title": "ea molestias quasi",
-      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+      "image": "https://www.stylecraze.com/wp-content/uploads/2018/06/Best-Ways-To-Style-Your-White-Button-Up-And-Down-Shirt-%E2%80%93-Women.jpg",
+      "date": "2023/06/18",
+      "category": "leather & life style",
+      "title": "11 ideas for styling a white button-down shirt",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+      "comments": 25
+    },
+    {
+      "id": 4,
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/jean/y/4/u/34-epsjean-dgrey-urbano-fashion-original-imagqrgfakputg6g.jpeg?q=20&crop=false",
+      "date": "2023/08/29",
+      "category": "leather & life style",
+      "title": "Jeans trend models in 2024",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+      "comments": 5
+    },
+    {
+      "id": 5,
+      "image": "https://vely-prod-media-bucket.s3.amazonaws.com/uploads/2021/06/21/eoss-banners-event_mobile_event-page-20210621.jpg",
+      "date": "2022/06/09",
+      "category": "festival",
+      "title": "End of season festival with 40% discount",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+      "comments": 14
+    },
+    {
+      "id": 6,
+      "image": "https://www.pcma.org/wp-content/uploads/2018/02/20180226_engagement.jpeg",
+      "date": "2023/07/17",
+      "category": "competiotions",
+      "title": "Sponsor of the 2023 World Cup",
+      "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+      "comments": 12
     }
   ],
   "footer": [
