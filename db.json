@@ -259,7 +259,18 @@
             "rate": 2.2,
             "voters": 140
           }
-        }
+        },      
+        {
+          "id": 6,
+          "title": "WD 4TB Portable External Hard Drive ",
+          "price": 640,
+          "category": "electronics",
+          "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+          "rating": {
+            "rate": 3.3,
+            "voters": 203
+          }
+        },
       ]
     },
     {
@@ -279,7 +290,7 @@
         },
         {
           "id": 2,
-          "title": " Faux Leather Moto Biker Jacket",
+          "title": "Leather Moto Biker Jacket",
           "price": 29.95,
           "category": "women's clothing",
           "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
@@ -320,7 +331,18 @@
             "rate": 3.6,
             "voters": 145
           }
-        }
+        },   
+        {
+          "id": 1,
+          "title": " Snowboard Jacket Winter Coats",
+          "price": 56.99,
+          "category": "women's clothing",
+          "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+          "rating": {
+            "rate": 2.6,
+            "voters": 235
+          }
+        },
       ]
     }
   ],
