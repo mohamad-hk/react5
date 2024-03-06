@@ -28,7 +28,8 @@
   "slider": [
     {
       "id": 1,
-      "description": "slider1",
+      "description": "
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio deleniti ut expedita ea praesentium inventore, quae nobis molestias. Quos praesentium itaque vitae esse nisi nostrum ab ratione unde at iure.",
       "image": "https://img.freepik.com/premium-photo/pretty-blonde-inlong-ink-dress-spinning_132075-1080.jpg",
       "link": "#",
       "button": "click here"
@@ -49,7 +50,8 @@
     },
     {
       "id": 4,
-      "description": "slider4",
+      "description": "
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio deleniti ut expedita ea praesentium inventore, quae nobis molestias. Quos praesentium itaque vitae esse nisi nostrum ab ratione unde at iure.",
       "image": "https://www.shutterstock.com/image-photo/jewelry-diamond-rings-necklaces-show-600nw-753671818.jpg",
       "link": "#",
       "button": "click here"
@@ -301,7 +303,7 @@
         },
         {
           "id": 3,
-          "title": "Opna Women's Short Sleeve Moisture",
+          "title": "Opna Women's Short Sleeve",
           "price": 7.95,
           "category": "women's clothing",
           "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
@@ -334,7 +336,7 @@
         },
         {
           "id": 6,
-          "title": "Opna Women's Short Sleeve Moisture",
+          "title": "Opna Women's Short Sleeve",
           "price": 7.95,
           "category": "women's clothing",
           "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
