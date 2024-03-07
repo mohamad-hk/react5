@@ -29,20 +29,20 @@
     {
       "id": 1,
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio deleniti ut expedita ea praesentium inventore, quae nobis molestias. Quos praesentium itaque vitae esse nisi nostrum ab ratione unde at iure.",
-      "image": "https://img.freepik.com/premium-photo/pretty-blonde-inlong-ink-dress-spinning_132075-1080.jpg",
+      "image": "https://andbro.com/wp-content/uploads/2023/02/Alex-Brogan-0313-1.jpg",
       "link": "#",
       "button": "click here"
     },
     {
       "id": 2,
-      "description": "slider2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo non, ipsam sint consectetur sequi hic.",
       "image": "https://mensflair.com/wp-content/uploads/2022/06/mens-summer-fashion-guide.jpg",
       "link": "#",
       "button": ""
     },
     {
       "id": 3,
-      "description": "slider3",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur unde fugit, eius dolor eaque aperiam.",
       "image": "https://www.stylior.com/site/images/home/slider_1.jpg",
       "link": "#",
       "button": ""
@@ -50,7 +50,7 @@
     {
       "id": 4,
       "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio deleniti ut expedita ea praesentium inventore, quae nobis molestias. Quos praesentium itaque vitae esse nisi nostrum ab ratione unde at iure.",
-      "image": "https://www.shutterstock.com/image-photo/jewelry-diamond-rings-necklaces-show-600nw-753671818.jpg",
+      "image": "https://res.cloudinary.com/hamstech/images/f_auto,q_auto/v1646733392/Hamstech%20App/Title-Image-4_8046668324e19/Title-Image-4_8046668324e19.jpg?_i=AA",
       "link": "#",
       "button": "click here"
     }
@@ -66,6 +66,7 @@
           "price": 109.95,
           "category": "men's clothing",
           "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+          "discount": 10,
           "rating": {
             "rate": 3.9,
             "voters": 120
@@ -77,6 +78,7 @@
           "price": 22.3,
           "category": "men's clothing",
           "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+          "discount": 20,
           "rating": {
             "rate": 4.1,
             "voters": 259
@@ -88,6 +90,7 @@
           "price": 55.99,
           "category": "men's clothing",
           "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+          "discount": 15,
           "rating": {
             "rate": 4.7,
             "voters": 500
@@ -99,6 +102,7 @@
           "price": 15.99,
           "category": "men's clothing",
           "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+          "discount": 0,
           "rating": {
             "rate": 2.1,
             "voters": 430
@@ -110,6 +114,7 @@
           "price": 17.99,
           "category": "men's clothing",
           "image": "https://5.imimg.com/data5/ANDROID/Default/2021/2/EO/LQ/NR/123847091/ms-34a01-512-18174442-jpg-500x500.jpg",
+          "discount": 50,
           "rating": {
             "rate": 2.1,
             "voters": 435
@@ -121,6 +126,7 @@
           "price": 17.99,
           "category": "men's clothing",
           "image": "https://m.media-amazon.com/images/I/41I+60dvszL._AC_SY1000_.jpg",
+          "discount": 0,
           "rating": {
             "rate": 2.1,
             "voters": 435
@@ -139,6 +145,7 @@
           "price": 695,
           "category": "jewelry",
           "image": "https://expertphotography.b-cdn.net/wp-content/uploads/2020/02/jewelry-photography-8.jpg",
+          "discount": 5,
           "rating": {
             "rate": 4.6,
             "voters": 400
@@ -150,6 +157,7 @@
           "price": 168,
           "category": "jewelry",
           "image": "https://clippingpathstudio.com/wp-content/uploads/2021/02/Reflective-gemstones.jpg",
+          "discount": 2,
           "rating": {
             "rate": 3.9,
             "voters": 70
@@ -158,9 +166,10 @@
         {
           "id": 3,
           "title": "White Gold Plated Princess",
-          "price": 9.99,
+          "price": 90.99,
           "category": "jewelry",
           "image": "https://alo.zone/web/image/21529/1.0.1-800.jpg",
+          "discount": 0,
           "rating": {
             "rate": 3,
             "voters": 400
@@ -169,9 +178,10 @@
         {
           "id": 4,
           "title": "Pierced Owl Rose Gold ",
-          "price": 10.99,
+          "price": 190.99,
           "category": "jewelry",
-          "image": "https://lh3.googleusercontent.com/proxy/NEx-4TPq8ZZlbvUugto2ZR-0KxWmTdWQAyI2sLzO4q3ilrqRud1Cx7nq8qpFIBFtmu-Esh6ZbGQQzfox3G_9RdVi7QIt3ZPTESZ-BgUDk33G0WXb_RJUuM0cUQ45h8qKeDP62cs4mMJDnqIwtRpPcfvShvO1S-L_9ms",
+          "image": "https://zoom.jewelryimages.net/edge/grinerjewelryco/images/edge/130-00734.jpg",
+          "discount": 0,
           "rating": {
             "rate": 1.9,
             "voters": 100
@@ -183,6 +193,7 @@
           "price": 10.99,
           "category": "jewelry",
           "image": "https://fixthephoto.com/blog/UserFiles/jewelry-photography.jpg",
+          "discount": 0,
           "rating": {
             "rate": 1.9,
             "voters": 100
@@ -191,9 +202,10 @@
         {
           "id": 6,
           "title": "Pierced Owl Rose Gold Plated ",
-          "price": 10.99,
+          "price": 890.99,
           "category": "jewelry",
           "image": "https://clippingpathstudio.com/wp-content/uploads/2021/02/Multiple-images.jpg",
+          "discount": 0,
           "rating": {
             "rate": 1.9,
             "voters": 100
@@ -211,6 +223,7 @@
           "price": 64,
           "category": "electronics",
           "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+          "discount": 35,
           "rating": {
             "rate": 3.3,
             "voters": 203
@@ -222,6 +235,7 @@
           "price": 109,
           "category": "electronics",
           "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+          "discount": 30,
           "rating": {
             "rate": 2.9,
             "voters": 470
@@ -233,6 +247,7 @@
           "price": 109,
           "category": "electronics",
           "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+          "discount": 60,
           "rating": {
             "rate": 4.8,
             "voters": 319
@@ -244,6 +259,7 @@
           "price": 599,
           "category": "electronics",
           "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+          "discount": 10,
           "rating": {
             "rate": 2.9,
             "voters": 250
@@ -255,17 +271,19 @@
           "price": 999.99,
           "category": "electronics",
           "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+          "discount": 0,
           "rating": {
             "rate": 2.2,
             "voters": 140
           }
-        },      
+        },
         {
           "id": 6,
           "title": "WD 4TB Portable External Hard Drive ",
           "price": 640,
           "category": "electronics",
           "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+          "discount": 0,
           "rating": {
             "rate": 3.3,
             "voters": 203
@@ -283,6 +301,7 @@
           "price": 56.99,
           "category": "women's clothing",
           "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+          "discount": 0,
           "rating": {
             "rate": 2.6,
             "voters": 235
@@ -294,6 +313,7 @@
           "price": 9.85,
           "category": "women's clothing",
           "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+          "discount": 0,
           "rating": {
             "rate": 4.7,
             "voters": 130
@@ -305,6 +325,7 @@
           "price": 7.95,
           "category": "women's clothing",
           "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+          "discount": 0,
           "rating": {
             "rate": 4.5,
             "voters": 146
@@ -316,17 +337,19 @@
           "price": 12.99,
           "category": "women's clothing",
           "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+          "discount": 0,
           "rating": {
             "rate": 3.6,
             "voters": 145
           }
-        },   
+        },
         {
           "id": 5,
           "title": " Snowboard Jacket Winter Coats",
           "price": 56.99,
           "category": "women's clothing",
           "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+          "discount": 0,
           "rating": {
             "rate": 2.6,
             "voters": 235
@@ -338,6 +361,7 @@
           "price": 7.95,
           "category": "women's clothing",
           "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+          "discount": 0,
           "rating": {
             "rate": 4.5,
             "voters": 146
@@ -347,7 +371,6 @@
     }
   ],
   "posts": [
-    
     {
       "id": 1,
       "image": "https://www.stylecraze.com/wp-content/uploads/2018/06/Best-Ways-To-Style-Your-White-Button-Up-And-Down-Shirt-%E2%80%93-Women.jpg",
@@ -357,7 +380,7 @@
       "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
       "comments": 25
     },
-    
+
     {
       "id": 2,
       "image": "https://vely-prod-media-bucket.s3.amazonaws.com/uploads/2021/06/21/eoss-banners-event_mobile_event-page-20210621.jpg",
