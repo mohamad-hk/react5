@@ -8,10 +8,10 @@
       "title": "Gallery",
       "dropdown": [
         { "id": 1, "title": "gallery1", "link": "#" },
-        { "id": 2, "title": "gallery1", "link": "#" },
-        { "id": 3, "title": "gallery1", "link": "#" },
-        { "id": 4, "title": "gallery1", "link": "#" },
-        { "id": 5, "title": "gallery1", "link": "#" }
+        { "id": 2, "title": "gallery2", "link": "#" },
+        { "id": 3, "title": "gallery3", "link": "#" },
+        { "id": 4, "title": "gallery4", "link": "#" },
+        { "id": 5, "title": "gallery5", "link": "#" }
       ]
     },
     {
